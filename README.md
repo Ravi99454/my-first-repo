@@ -1,9 +1,7 @@
-# my- first-repo
+## What I Learned Today
 
-# My First Repository
-A beginner GitHub project
-created during the workshop.
+I am currently attending a GitHub workshop.
+Today I learned about: - Vesion control -Creating a
+repository - The edit-commit-push cycle
 
-## About Me
-My name is **Ravindu**.
-I am learning GItHub.
+My GitHub profile: https://github.com/Ravi99454
